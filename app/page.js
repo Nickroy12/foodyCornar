@@ -1,9 +1,10 @@
-import Banner from "./Home/Banner";
+import FoodsCC from "./Home/Banner";
+
 
 export default function Home() {
   return (
     <>
-      <Banner />
+    <FoodsCC/>
     </>
   );
 }
