@@ -4,7 +4,7 @@ import Theme from './Theme'
 
 const links = <>
   <li><Link href='/'>Home</Link></li>
-  <li><Link href='/menu'>Menu</Link></li>
+  <li><Link href='/food'>food</Link></li>
   <li><Link href='/Favourite'>Favourite</Link></li>
 </>
 

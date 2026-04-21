@@ -5,6 +5,7 @@
         {
             "id": "food_001",
             "dish_name": "Grilled Chicken Rice Bowl with Fresh Veggie Salad",
+            "category" : "chicken",
             "alternative_names": [
                 "Mediterranean Chicken Rice Plate",
                 "Chicken Rice Power Bowl",
@@ -52,6 +53,7 @@
         {
             "id": "food_002",
             "dish_name": "Grilled Lemon Basil Chicken with Rice and Tomato Salad",
+            "category" : "chicken",
             "alternative_names": [
                 "Lemon Herb Grilled Chicken Breast Plate",
                 "Basil Chicken Rice Bowl with Fresh Tomatoes",
@@ -95,6 +97,7 @@
         {
             "id": "food_003",
             "dish_name": "Mozzarella-Stuffed Meatballs in Tomato Sauce",
+            "category":"meatball",
             "alternative_names": [
                 "Cheese-Stuffed Meatballs with Marinara",
                 "Italian Stuffed Meatballs in Rich Red Sauce",
@@ -142,6 +145,7 @@
         {
             "id": "food_004",
             "dish_name": "Crispy Breaded Chicken in Bell Pepper Boat with Vegetable Salad",
+            "category":"chicken",
             "alternative_names": [
                 "Fun Shaped Chicken Nugget Bell Pepper Plate",
                 "Animal-Shaped Breaded Chicken Veggie Bowl",
@@ -188,6 +192,7 @@
         {
             "id": "food_005",
             "dish_name": "Grilled Fish Salad Bowl with Chimichurri and Mustard Sauce",
+            "category":"fish",
             "alternative_names": [
                 "Grilled Salmon Power Salad",
                 "Herb-Grilled Fish Lettuce Bowl with Dipping Sauces",
@@ -234,6 +239,7 @@
         {
             "id": "food_006",
             "dish_name": "Glazed Meatloaf Ball Fusion Platter with Soft Eggs and Veggie Sides",
+            "category":"platter",
             "alternative_names": [
                 "Gourmet Dome Meatloaf Brunch Plate",
                 "Honey-Glazed Ham Ball Mixed Bowl with Salmon Rose",
@@ -281,6 +287,7 @@
         {
             "id": "food_007",
             "dish_name": "Vietnamese Grilled Beef and Tofu Rice Bowl with Fresh Vegetables",
+            "category":"vegetable",
             "alternative_names": [
                 "Lemongrass Beef & Tofu Cơm Bowl",
                 "Vietnamese Broken Rice Fusion Plate (Cơm Tấm Style with Tofu)",
@@ -327,6 +334,7 @@
         {
             "id": "food_008",
             "dish_name": "Bangladeshi Fusion Thali Platter",
+            "category":"platter",
             "alternative_names": [
                 "Bengali Mixed Thali with Rice and Assorted Curries",
                 "Gourmet Bengali Vegetarian/ Mixed Platter",
@@ -375,6 +383,7 @@
         {
             "id": "food_009",
             "dish_name": "Shrimp Salad Bowl with Fresh Vegetables",
+            "category":"vegetable",
             "alternative_names": [
                 "Grilled Shrimp Cucumber Tomato Salad",
                 "Mediterranean Shrimp Veggie Bowl",
@@ -419,6 +428,7 @@
         {
             "id": "food_010",
             "dish_name": "Tandoori Paneer Tikka",
+            "category":"chicken",
             "alternative_names": [
                 "Grilled Paneer Tikka",
                 "Spicy Red Paneer Tikka",
